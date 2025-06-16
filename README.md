@@ -1,13 +1,6 @@
 # kubernetes-controlplane
-k8s dev environment
+--- k8s dev environment ---
 
-
-# kubernetes-control-plane
-
-<div align="center">
-  <img src="docs/images/logo.png" alt="k8s-diy-dev logo" width="400"/>
-  <p><em>Build your own Kubernetes development environment from scratch</em></p>
-</div>
 
 ## Overview
 This project helps you understand Kubernetes internals by providing step-by-step instructions to build a development environment from scratch. It's perfect for developers who want to:

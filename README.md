@@ -166,6 +166,8 @@ wget https://github.com/containerd/containerd/releases/download/v2.1.2/container
 
 # Download AMD runc
 sudo curl -L "https://github.com/opencontainers/runc/releases/download/v1.2.6/runc.amd64" -o /opt/cni/bin/runc
+# Download ARM runc
+sudo curl -L "https://github.com/opencontainers/runc/releases/download/v1.2.6/runc.arm64" -o /opt/cni/bin/runc
 
 # Download ARM CNI plugins
 wget https://github.com/containernetworking/plugins/releases/download/v1.6.2/cni-plugins-linux-arm64-v1.6.2.tgz
